@@ -38,8 +38,7 @@ const Footer = () => {
               Books Store
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Possimus, voluptate.{" "}
+              "Empowering readers with an endless library of books. Explore thousands of titles with fast delivery and great prices."
             </p>
             <br />
             <div className="flex items-center gap-3">
