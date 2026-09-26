@@ -9,22 +9,24 @@ const ImageList = [
     id: 1,
     img: Book1,
     title: "His Life will forever be Changed",
-    description:
-      "lorem His Life will forever be Changed dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description:"In a futuristic world where humanity is pushed to its limits, one man uncovers a secret that threatens the entire system. Step into a gripping journey of survival, identity, and a destiny that changes everything."
+    
   },
   {
     id: 2,
     img: Book2,
     title: "Who's there",
-    description:
-      "Who's there lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description:"A simple knock at the door spirals into a spine-chilling psychological thriller. When silence answers back, one family must confront the shadows lurking in the dark before it's too late."
+  },
+     
   },
   {
     id: 3,
     img: Book3,
     title: "Lost Boy",
-    description:
-      "Lost Boy, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description:"Wandering through a vast, unfamiliar world, a young protagonist embarks on an emotional quest to find home, truth, and his true identity amidst secrets forgotten by time."
+  }
+     
   },
 ];
 
@@ -32,7 +34,8 @@ const Hero = ({ handleOrderPopup }) => {
   const [imageId, setImageId] = React.useState(Book1);
   const [title, setTitle] = React.useState("His Life will forever be Changed");
   const [description, setDescription] = React.useState(
-    "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "Wandering through a vast, unfamiliar world, a young protagonist embarks on an emotional quest to find home, truth, and his true identity amidst secrets forgotten by time."
+  }
   );
 
   const bgImage = {
