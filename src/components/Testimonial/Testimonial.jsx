@@ -5,19 +5,19 @@ const testimonialData = [
   {
     id: 1,
     name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "Seamless ordering process and fantastic customer service! The site design is clean and making payments is super smooth.",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 1,
     name: "Satya Narayan",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "Finding academic books and fiction under one platform has never been easier. Plus, the discounts and quick checkouts make it my go-to store.",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 1,
-    name: "Sachin Tendulkar",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Rohan Bose",
+    text: "The selection of books here is incredible! I ordered the latest bestseller and it arrived at my doorstep within two days in pristine condition.",
     img: "https://picsum.photos/103/103",
   },
 ];
